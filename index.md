@@ -1,0 +1,6 @@
+---
+layout: page
+title: "Home"
+---
+
+I have a Bachelor in Computer Engineering from Ricardo Palma University (Peru)
